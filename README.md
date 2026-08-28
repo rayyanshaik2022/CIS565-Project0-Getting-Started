@@ -14,6 +14,7 @@ Note that I could not access Nsight Systems/Compute due to administrator access 
 - Set up developer environment
  - ![opengl_check.png](images/opengl_check.png)
  - ![webgl_check.png](images/webgl_check.png)
+ - ![webgpu_check.png](images/webgl_check.png)
 - Profiled GPU warps
  - ![warp_profiling.png](images/warp_profiling.png)
 
